@@ -5,10 +5,13 @@ I am an electrical engineer, data scientist and software developer with extensiv
 ## My Values
 
 🌟 Open minded and curious
+
 👨🏻‍💻 Lifelong learner
+
 🍏 Honest and transparent
 
 ## Get in touch
 
 [Personal site](https://jsalbert.github.io/)
+
 [Twitter](https://twitter.com/jsalbert_)
