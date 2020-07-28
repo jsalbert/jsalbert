@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there, I'm Albert 👋 
 
-<!--
-**jsalbert/jsalbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an electrical engineer, data scientist and software developer with extensive experience in deep learning, computer vision, generative models, and audio processing. Currently working as a Senior Data Scientist at Triage, a start-up focused on advancing AI for dermatology. 
 
-Here are some ideas to get you started:
+## My Values
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 Open minded and curious
+👨🏻‍💻 Lifelong learner
+🍏 Honest and transparent
+
+## Get in touch
+
+[Personal site](https://jsalbert.github.io/)
+[Twitter](https://twitter.com/jsalbert_)
