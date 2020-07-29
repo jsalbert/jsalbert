@@ -6,9 +6,12 @@ I am an electrical engineer, data scientist and engineer with extensive experien
 
 🌟 Open minded and curious
 
-👨🏻‍💻 Lifelong learner
+⚡️ Passionate
 
 🍏 Honest and transparent
+
+👨🏻‍💻 Lifelong learner
+
 
 ## Get in touch
 
