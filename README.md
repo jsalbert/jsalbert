@@ -2,7 +2,7 @@
 
 # Hi there, I'm Albert 👋 
 
-I am an electrical engineer, data scientist and machine learning engineer with extensive experience in deep learning, computer vision, generative models, and audio processing. Currently working as a Senior Data Scientist at Triage, a start-up focused on advancing AI for dermatology. 
+I am an electrical engineer, data scientist and machine learning engineer with extensive experience in deep learning, computer vision, generative models, and audio processing. 
 
 ## My Values
 
