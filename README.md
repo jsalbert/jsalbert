@@ -2,7 +2,7 @@
 
 # Hi there, I'm Albert 👋 
 
-I am an electrical engineer, data scientist and machine learning researcher and developer with extensive experience in deep learning, computer vision, generative models, and audio processing. 
+I am an electrical engineer, data scientist and machine learning researcher and developer with extensive experience in deep learning, computer vision, natural language processing, generative models, and audio processing. 
 
 ## My Values
 
