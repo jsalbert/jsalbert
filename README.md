@@ -22,6 +22,19 @@ I am an electrical engineer, data scientist and machine learning researcher and 
 
 ## 📬 Get in touch
 
-[Personal site](https://jsalbert.github.io/)
-
-[Twitter](https://twitter.com/jsalbert_)
+<p>
+  
+  <a href="https://albertjimenez.xyz/">
+    <img src="https://img.shields.io/badge/Personal Website-750e87?style=for-the-badge&logo=google-chrome&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/jsalbert_">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />    
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/albertjimenezsanfiz/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://albert-jimenez.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
