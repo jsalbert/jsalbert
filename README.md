@@ -14,6 +14,10 @@ I am an electrical engineer, data scientist and machine learning researcher and 
 
 👨🏻‍💻 Lifelong learner
 
+## Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## Get in touch
 
