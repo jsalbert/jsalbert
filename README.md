@@ -24,7 +24,7 @@ I am an electrical engineer, data scientist and machine learning researcher and 
 
 <p>
   
-  <a href="https://albertjimenez.xyz/">
+  <a href="https://www.albertjimenez.xyz/#/">
     <img src="https://img.shields.io/badge/Personal Website-750e87?style=for-the-badge&logo=google-chrome&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/jsalbert_">
