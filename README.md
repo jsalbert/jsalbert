@@ -17,6 +17,7 @@ I am an electrical engineer, data scientist and machine learning researcher and 
 ## ✍🏻 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch Your ML App in 4 Easy Steps](https://levelup.gitconnected.com/launch-your-ml-app-in-4-easy-steps-861b2b2f2179?source=rss-8ee877dce271------2)
 - [How to Parallelize Your Python Tests Easily with CircleCI](https://levelup.gitconnected.com/how-to-parallelize-your-python-tests-easily-with-circleci-473bd79eba98?source=rss-8ee877dce271------2)
 <!-- BLOG-POST-LIST:END -->
 
