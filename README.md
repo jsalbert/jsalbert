@@ -8,7 +8,7 @@ I am an electrical engineer, data scientist and machine learning researcher and 
 
 🌟 Open minded and curious
 
-⚡️ Passionate
+⚡️ Passionate about solving complex problems
 
 🍏 Honest and transparent
 
